@@ -1,0 +1,12 @@
+PING 198.18.134.11 (198.18.134.11) 56(84) bytes of data.
+64 bytes from 198.18.134.11: icmp_seq=2 ttl=255 time=0.993 ms
+
+--- 198.18.134.11 ping statistics ---
+2 packets transmitted, 1 received, 50% packet loss, time 1001ms
+rtt min/avg/max/mdev = 0.993/0.993/0.993/0.000 ms
+PING 198.18.134.12 (198.18.134.12) 56(84) bytes of data.
+64 bytes from 198.18.134.12: icmp_seq=2 ttl=255 time=1.01 ms
+
+--- 198.18.134.12 ping statistics ---
+2 packets transmitted, 1 received, 50% packet loss, time 1000ms
+rtt min/avg/max/mdev = 1.013/1.013/1.013/0.000 ms

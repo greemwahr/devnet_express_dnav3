@@ -1,0 +1,7 @@
+PING 198.18.134.46 (198.18.134.46) 56(84) bytes of data.
+64 bytes from 198.18.134.46: icmp_seq=1 ttl=64 time=1003 ms
+64 bytes from 198.18.134.46: icmp_seq=2 ttl=64 time=3.95 ms
+
+--- 198.18.134.46 ping statistics ---
+2 packets transmitted, 2 received, 0% packet loss, time 999ms
+rtt min/avg/max/mdev = 3.958/503.741/1003.524/499.783 ms, pipe 2
