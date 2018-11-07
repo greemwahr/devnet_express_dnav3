@@ -4,10 +4,10 @@
 # User Environment
 env_user.py
 
-
 # Virtual Environments
 .venv
 venv/
+devnet_express/
 .python-version
 Pipfile
 Pipfile.lock
