@@ -1,0 +1,1 @@
+{"protocol":"Any", "srcPort":"Any", "srcCidr":"Any",                             "destPort":"Any", "destCidr":"Any", "policy":"allow",                            "syslogEnabled":false, "comment":"Default rule"}
